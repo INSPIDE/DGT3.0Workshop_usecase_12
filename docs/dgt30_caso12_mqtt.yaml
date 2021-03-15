@@ -83,11 +83,6 @@ components:
             format: int32
             description: Device use type from device_use_type table (1- woker, 2 - vehicle, ...)
             example: 1 
-          vehicle_type:
-            type: integer
-            format: int32
-            description: Vehicle type from vehicle_type table
-            example: 1            
           speed:
             type: number
             format: souble
